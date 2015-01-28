@@ -5,7 +5,6 @@ gem 'sqlite3'
 gem 'sass-rails', '~> 4.0.3'
 gem 'uglifier', '>= 1.3.0'
 gem 'coffee-rails', '~> 4.0.0'
-gem 'therubyracer',  platforms: :ruby
 gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder', '~> 2.0'
@@ -14,4 +13,4 @@ gem 'spring',        group: :development
 
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'momentjs-rails', '>= 2.8.1'
-gem 'bootstrap3-datetimepicker-rails', '~> 3.1.2'
+gem 'bootstrap3-datetimepicker-rails', '4.0.0'
