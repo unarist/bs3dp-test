@@ -13,4 +13,4 @@ gem 'spring',        group: :development
 
 gem 'bootstrap-sass', '~> 3.2.0'
 gem 'momentjs-rails', '>= 2.8.1'
-gem 'bootstrap3-datetimepicker-rails', '4.0.0'
+gem 'bootstrap3-datetimepicker-rails', '4.7.14'
